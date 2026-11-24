@@ -1,5 +1,5 @@
 # Justinrainbow/json-schema implementation
-This folder contains the test harness for the justinrainbow/json-schema implementation.
+This folder contains the test harness for the [justinrainbow/json-schema](https://github.com/jsonrainbow/json-schema) implementation.
 
 # Easy to use commands
 You can check composer scripts for easy to use commands.
